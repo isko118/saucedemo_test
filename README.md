@@ -5,8 +5,6 @@
 ![Selenium](https://img.shields.io/badge/Selenium-4.0.0-green.svg)
 ![pytest](https://img.shields.io/badge/pytest-7.0.0-orange.svg)
 ![Allure](https://img.shields.io/badge/Allure-2.20.1-purple.svg)
-![mypy](https://img.shields.io/badge/mypy-0.910-blue.svg)
-![ruff](https://img.shields.io/badge/ruff-0.0.278-red.svg)
 
 ## Описание
 
