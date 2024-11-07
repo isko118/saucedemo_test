@@ -28,32 +28,26 @@
    git clone https://github.com/yourusername/saucedemo-tests.git
    ```
 
-2. **Перейдите в директорию проекта:**
-
-   ```bash
-   cd saucedemo-tests
-   ```
-
-3. **Создайте и активируйте виртуальное окружение:**
+2. **Создайте и активируйте виртуальное окружение:**
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    ```
 
-4. **Обновите pip:**
+3. **Обновите pip:**
 
    ```bash
    pip install --upgrade pip
    ```
 
-5. **Установите зависимости:**
+4. **Установите зависимости:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-6. **Установите драйвер браузера:**
+5. **Установите драйвер браузера:**
 
    - **Chrome:**
      - Скачайте [Chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads), соответствующий версии вашего браузера.
@@ -62,7 +56,7 @@
      - Скачайте [Geckodriver](https://github.com/mozilla/geckodriver/releases).
      - Поместите `geckodriver` в `/usr/local/bin/` или укажите путь в коде.
 
-7. **Установите Allure Commandline:**
+6. **Установите Allure Commandline:**
 
    - **macOS (через Homebrew):**
 
